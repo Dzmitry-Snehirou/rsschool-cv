@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  transition: .4s;
+}
+
+ul li {
+  list-style: none;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 20px 40px 40px 40px;
+}
+
+body {
+  background-color: #E1D4C9;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  /* 142.857% */
+}
+
+/*header-section*/
+.wrapper-header__section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-menu {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.header-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 150%;
+  /* 24px */
+}
+
+.header__menu-button {
+  text-align: left;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 150%;
+  /* 24px */
+  height: 28px;
+  width: 72px;
+  border: none;
+  background-color: #E1D4C9;
+  position: relative;
+  border: 2px solid transparent;
+}
+
+.header-link {
+  border: 2px solid transparent;
+}
+
+.header__menu-button,
+.header-link:hover {
+  border-bottom: #403F3D solid 2px;
+  transition: 0.5s;
+}
+
+.header__menu-button::after {
+  content: url("/coffee-house/img/svg/coffee-cup.svg");
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
