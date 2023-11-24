@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Dzmitry-Snehirou.github.io//coffe-hose
+https://Dzmitry-Snehirou.github.io//coffe-house/
