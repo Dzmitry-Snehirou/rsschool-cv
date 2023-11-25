@@ -1,3 +1,3 @@
+https://rolling-scopes-school.github.io/Dzmitry-Snehirou.github.io/coffe-house
 
-https://rolling-scopes-school.Dzmitry-Snehirou.github.io/coffe-house/
 
