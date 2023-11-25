@@ -1,2 +1,3 @@
 # rsschool-cv
-https://Dzmitry-Snehirou.github.io//coffe-house/
+https://rolling-scopes-school.Dzmitry-Snehirou.github.io/repository-name/coffe-house/
+
